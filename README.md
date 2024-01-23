@@ -22,7 +22,7 @@ pip install pyclip
 ```powershell
 pip install cryptography
 ```
-* To run the application, you can run press /view/main.py, or (from the directory view)
+* To run the application, you can run press /src/main.py, or (from the directory src)
 ```powershell
 python ./main.py
 ```
